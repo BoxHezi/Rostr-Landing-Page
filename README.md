@@ -1,3 +1,5 @@
+Alright bois, i'm just setting us up with something really quick, this is a landing page for our organization. When we have the designs for a static site we can then start developing it properly.
+
 # [Start Bootstrap - Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/)
 
 [Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/) is a simple coming soon theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
